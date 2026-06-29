@@ -135,7 +135,7 @@ async def verify_product(page, asin: str, info: dict, priority_rules: list[dict]
             break
 
     if not has_cart:
-        logger.debug(f"  {asin}: no add-to-cart")
+        logger.info(f"  {asin}: no add-to-cart — skip")
         return None
 
     # Check seller
@@ -148,8 +148,8 @@ async def verify_product(page, asin: str, info: dict, priority_rules: list[dict]
                 seller_text = text
                 break
 
+    logger.info(f"  {asin}: seller='{seller_text}'")
     if not seller_text or SELLER_NAME not in seller_text:
-        logger.debug(f"  {asin}: seller '{seller_text}' — skip")
         return None
 
     # Get price
