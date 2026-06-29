@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 
 CONFIG_FILE = Path(__file__).parent / "config.json"
 AMAZON_BASE = "https://www.amazon.com.mx"
-SELLER_NAME = "Amazon.com.mx"
+SELLER_NAME = "Amazon"
 
 EXCLUDE_KEYWORDS = ["figura", "funko", "peluche", "juguete", "mochila", "camiseta", "poster", "sticker", "llavero", "rompecabezas", "puzzle"]
 POKEMON_KEYWORDS = ["pokemon", "pokémon", "tcg", "trainer box", "booster", "elite trainer", "ultra premium"]
