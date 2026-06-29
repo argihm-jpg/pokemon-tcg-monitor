@@ -1,0 +1,16 @@
+{
+  "search_queries": [
+    "pokemon elite trainer box",
+    "pokemon booster bundle",
+    "pokemon ultra premium collection",
+    "pokemon tcg cartas coleccion"
+  ],
+  "priority": [
+    { "rank": 1, "label": "ETB",            "keywords": ["elite trainer box", "caja de entrenador", "caja entrenador"] },
+    { "rank": 2, "label": "Booster Bundle", "keywords": ["booster bundle"] },
+    { "rank": 3, "label": "UPC",            "keywords": ["ultra premium collection", "ultra premium"] },
+    { "rank": 4, "label": "Tin / Colección","keywords": ["tin", "coleccion especial", "special collection", "collection chest"] },
+    { "rank": 5, "label": "Booster Box",   "keywords": ["booster box", "caja de sobres"] },
+    { "rank": 9, "label": "Otro TCG",      "keywords": [] }
+  ]
+}
