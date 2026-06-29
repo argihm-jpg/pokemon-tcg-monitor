@@ -5,7 +5,7 @@ import logging
 from pathlib import Path
 from urllib.parse import urlencode
 from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
-from playwright_stealth import Stealth
+from playwright_stealth import stealth_async
 
 logger = logging.getLogger(__name__)
 
@@ -187,7 +187,7 @@ async def run_scrape(known_asins: set | None = None) -> list[dict]:
 
     all_candidates: dict[str, dict] = {}
 
-    async with Stealth().use_async(async_playwright()) as p:
+    async with async_playwright() as p:
         browser = await p.chromium.launch(
             headless=True,
             args=["--no-sandbox", "--disable-blink-features=AutomationControlled"],
@@ -201,6 +201,7 @@ async def run_scrape(known_asins: set | None = None) -> list[dict]:
             locale="es-MX",
         )
         page = await context.new_page()
+        await stealth_async(page)
 
         # Phase 1: collect candidates from all search queries
         for query in queries:
