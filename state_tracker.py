@@ -8,11 +8,19 @@ STATE_FILE = Path(__file__).parent / "state.json"
 
 
 def load_state() -> dict:
-    """Returns {asin: {"name": str, "in_stock": bool}} for every ASIN ever seen."""
-    if STATE_FILE.exists():
-        with open(STATE_FILE) as f:
-            return json.load(f)
-    return {}
+    """Returns {asin: {"name": str, "in_stock": bool}} for every ASIN ever seen.
+
+    Migrates the old {asin: name} format (values were plain strings) by assuming
+    in_stock=True, since old entries were only ever added when verified in stock.
+    """
+    if not STATE_FILE.exists():
+        return {}
+    with open(STATE_FILE) as f:
+        state = json.load(f)
+    return {
+        asin: ({"name": v, "in_stock": True} if isinstance(v, str) else v)
+        for asin, v in state.items()
+    }
 
 
 def save_state(state: dict) -> None:
@@ -35,6 +43,21 @@ def update_state(candidates: dict[str, dict], results: list[dict], previous: dic
 
 
 def _demo() -> None:
+    import tempfile, os
+
+    global STATE_FILE
+    with tempfile.NamedTemporaryFile(mode="w", suffix=".json", delete=False) as f:
+        json.dump({"OLD1": "Legacy string-format entry"}, f)
+        old_file = f.name
+    real_state_file = STATE_FILE
+    STATE_FILE = Path(old_file)
+    try:
+        migrated = load_state()
+        assert migrated == {"OLD1": {"name": "Legacy string-format entry", "in_stock": True}}, migrated
+    finally:
+        STATE_FILE = real_state_file
+        os.unlink(old_file)
+
     prev = {
         "A1": {"name": "ETB known, still in stock", "in_stock": True},
         "A2": {"name": "ETB known, was out of stock", "in_stock": False},
