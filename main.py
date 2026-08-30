@@ -18,7 +18,7 @@ async def main() -> None:
     logger.info("--- Starting scrape cycle ---")
     previous = load_state()
 
-    results = await run_scrape(known_asins=set(previous.keys()))
+    results, candidates = await run_scrape()
 
     if results and results[0].get("_captcha"):
         logger.warning("CAPTCHA detected — skipping cycle")
@@ -26,7 +26,7 @@ async def main() -> None:
         return
 
     newly_available = compute_transitions(results, previous)
-    save_state(update_state(results, previous))
+    save_state(update_state(candidates, results, previous))
 
     for product in sorted(newly_available, key=lambda r: (r.get("priority_rank", 9), r.get("name", ""))):
         await send_alert(product)

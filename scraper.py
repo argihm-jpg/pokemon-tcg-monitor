@@ -174,16 +174,16 @@ async def verify_product(page, asin: str, info: dict, priority_rules: list[dict]
     }
 
 
-async def run_scrape(known_asins: set | None = None) -> list[dict]:
+async def run_scrape() -> tuple[list[dict], dict[str, dict]]:
     """
     1. Search all queries → collect candidate ASINs
-    2. Visit each new product page → verify sold by Amazon.com.mx
-    Returns list sorted by priority, or [{"_captcha": True}] on block.
+    2. Visit every candidate's product page → verify sold by Amazon.com.mx and in stock
+       (re-checks known ASINs too, so restocks and out-of-stocks are both detected)
+    Returns (verified products sorted by priority, all_candidates), or ([{"_captcha": True}], {}) on block.
     """
     config = load_config()
     queries = config["search_queries"]
     priority_rules = config["priority"]
-    known_asins = known_asins or set()
 
     all_candidates: dict[str, dict] = {}
 
@@ -208,29 +208,25 @@ async def run_scrape(known_asins: set | None = None) -> list[dict]:
             result = await collect_asins_from_search(page, query)
             if isinstance(result, dict) and result.get("_captcha"):
                 await browser.close()
-                return [{"_captcha": True}]
+                return [{"_captcha": True}], {}
             for asin, info in result.items():
                 if asin not in all_candidates:
                     all_candidates[asin] = info
             await asyncio.sleep(random.uniform(3, 5))
 
-        new_asins = {a: i for a, i in all_candidates.items() if a not in known_asins}
-        logger.info(
-            f"Search done — {len(all_candidates)} candidates, "
-            f"{len(known_asins)} known, {len(new_asins)} to verify"
-        )
+        logger.info(f"Search done — {len(all_candidates)} candidates to verify")
 
-        # Phase 2: verify seller on product page (only new ASINs)
+        # Phase 2: verify seller + stock on every candidate's product page
         verified = []
-        for asin, info in new_asins.items():
+        for asin, info in all_candidates.items():
             result = await verify_product(page, asin, info, priority_rules)
             if isinstance(result, dict) and result.get("_captcha"):
                 await browser.close()
-                return [{"_captcha": True}]
+                return [{"_captcha": True}], {}
             if result:
                 verified.append(result)
             await asyncio.sleep(random.uniform(2, 4))
 
         await browser.close()
 
-    return sorted(verified, key=lambda r: (r["priority_rank"], r["name"]))
+    return sorted(verified, key=lambda r: (r["priority_rank"], r["name"])), all_candidates
