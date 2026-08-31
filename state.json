@@ -181,7 +181,7 @@
   },
   "B0G1CFVHQG": {
     "name": "Pokemon TCG Juego de Cartas Coleccionables Triple Whammy Lata con 3 Paquetes de Refuerzo y 3 Cartas Promocionales (Tyranitar)",
-    "in_stock": true
+    "in_stock": false
   },
   "B0G5HWHQQR": {
     "name": "Team Rocket's Articuno, Zapdos y Tyranitar Pokemon TCG Juego de cartas coleccionables incluye 3 tarjetas promocionales, con 2 paquetes de refuerzo de chispas crecientes, Twighlight Maquerade y moneda",
@@ -217,7 +217,7 @@
   },
   "B0D9PX5VDC": {
     "name": "Pok\u00e9mon Charizard ex Super-Premium Collection",
-    "in_stock": true
+    "in_stock": false
   },
   "B0FHPKXRYC": {
     "name": "Pok\u00e9mon TCG: Caja de visualizaci\u00f3n Mejorada Mega Evolution",
@@ -829,6 +829,14 @@
   },
   "B0H9ZW4RNS": {
     "name": "Pok\u00e9mon TCG Mega Evolution Ascended Heroes Focused Fighters | Colecci\u00f3n Premium, 14 paquetes de refuerzo, tarjetas promocionales de aluminio, tarjeta de gran tama\u00f1o incluida",
+    "in_stock": false
+  },
+  "B0DTY5228W": {
+    "name": "Pok\u00e9mon TCG: Charizard ex Special Collection",
+    "in_stock": false
+  },
+  "B0F4W3Q5YG": {
+    "name": "Over Lu | 500pcs fundas para tarjetas, Protectores de Tarjetas Coleccionables ajuste perfecto, tarjetero de pl\u00e1stico para tarjetas de intercambio compatible con MTG, TCG (500pcs Funda Suave)",
     "in_stock": false
   }
 }
