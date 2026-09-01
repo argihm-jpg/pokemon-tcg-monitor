@@ -405,7 +405,7 @@
   },
   "B08GFD1Y7P": {
     "name": "Pokemon TCG Champion's Path Elite Trainer Box - \u00a110 paquetes de refuerzo y m\u00e1s!",
-    "in_stock": true
+    "in_stock": false
   },
   "B0FXHKSCT6": {
     "name": "Weiss Schwarz TCG: Azur Lane - Vol. 2 cajas de refuerzo - 12 paquetes",
@@ -473,7 +473,7 @@
   },
   "B0BNKBBYK1": {
     "name": "Pokemon Juego de cartas Scarlet & Violet Premium Trainer Box ex japon\u00e9s",
-    "in_stock": true
+    "in_stock": false
   },
   "B0F2GZJ3TZ": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014Destined Rivals Booster Caja de exhibici\u00f3n",
@@ -537,7 +537,7 @@
   },
   "B0CXY99B6D": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet - Twilight Masquerade Elite Trainer Box",
-    "in_stock": true
+    "in_stock": false
   },
   "B0HB62YC3V": {
     "name": "Pokemon TCG CSV9.5C - Juego de monedas Terastal Gathering (1 sobres y 1 tarjeta promocional, 1 moneda coleccionable, Eevee y Eeveelutions (Sylveon)",
@@ -850,5 +850,21 @@
   "B0HG3M1982": {
     "name": "Pok\u00e9mon Caja de Combina y Combate de Megaevoluci\u00f3n-Dominio Delta de JCC",
     "in_stock": true
+  },
+  "B0FK2BN732": {
+    "name": "Pok\u00e9mon Pikachu V-Union Box CS0G",
+    "in_stock": false
+  },
+  "B0D4B4SL9X": {
+    "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014 Shrouded Fable Elite Trainer Box",
+    "in_stock": false
+  },
+  "B0GVB43M5D": {
+    "name": "Pokemon Simplified Chinese Booster Box - Gem Vol 4 - (15 paquetes) - Ponyta",
+    "in_stock": true
+  },
+  "B0DNPM2BSQ": {
+    "name": "Pokemon - Cinderace ex SVP 163 - Gold Full Art - Tarjeta promocional de la colecci\u00f3n Terapagos Ultra Premium - Exclusiva",
+    "in_stock": false
   }
 }
