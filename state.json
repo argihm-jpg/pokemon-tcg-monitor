@@ -25,7 +25,7 @@
   },
   "B0GR6N18F6": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Chaos Rising Elite Trainer Box, 1 Pieza",
-    "in_stock": true
+    "in_stock": false
   },
   "B0GGCLDXZL": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order Elite Trainer Box, 1 Pieza",
@@ -621,7 +621,7 @@
   },
   "B0F2BDXW4J": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box",
-    "in_stock": false
+    "in_stock": true
   },
   "B0FPDLTVVV": {
     "name": "Pok\u00e9mon TCG: Mega Charizard X ex Ultra-Premium Collection",
@@ -841,6 +841,10 @@
   },
   "B0FMYKCKK6": {
     "name": "Pok\u00e9mon: Colecci\u00f3n Poderes Supremos de JCC Pok\u00e9mon: Terapagos ex (3 Cartas hologr\u00e1fica de promoci\u00f3n, 18 Paquetes de Mejora)",
+    "in_stock": false
+  },
+  "B0G3XHFBRW": {
+    "name": "Pok\u00e9mon - Mega Charizard X ex - 013/094 - ME02: Llamas Fantasmales (PFL) - Doble Rara - Tarjeta \u00danica",
     "in_stock": false
   }
 }
