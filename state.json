@@ -117,7 +117,7 @@
   },
   "B0GSJMQ3QQ": {
     "name": "Pok?mon Tcg: Mega Evolution?chaos Rising Booster Display",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GZ14PMTG": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order 3-Booster Blister",
@@ -268,7 +268,7 @@
     "in_stock": true
   },
   "B0FQP3YQ47": {
-    "name": "Pokemon TCG: Q4 Poke Ball Latas",
+    "name": "Pok\u00e9mon TCG Q4 Poke Ball Latas | 7.62 cm x 2.54 cm x 0.1 cm, incluye 3 paquetes de refuerzo, 2 hojas de pegatinas",
     "in_stock": true
   },
   "B0GV1XKBM8": {
@@ -545,7 +545,7 @@
   },
   "B0HG39D87N": {
     "name": "Pok\u00e9mon Bl\u00edster de 3 Sobres de Refuerzo de Megaevoluci\u00f3n-Dominio Delta de JCC",
-    "in_stock": true
+    "in_stock": false
   },
   "B0HG3C5JK6": {
     "name": "Pok\u00e9mon Paquete de Sobres de Refuerzo de Megaevoluci\u00f3n-Dominio Delta de JCC",
@@ -865,6 +865,10 @@
   },
   "B0DNPM2BSQ": {
     "name": "Pokemon - Cinderace ex SVP 163 - Gold Full Art - Tarjeta promocional de la colecci\u00f3n Terapagos Ultra Premium - Exclusiva",
+    "in_stock": false
+  },
+  "B0G1PMQP5R": {
+    "name": "Pokemon TCG: Colecci\u00f3n premium de Hydreigon ex y Dragapult ex - 10 paquetes, tarjetas promocionales",
     "in_stock": false
   }
 }
