@@ -53,7 +53,7 @@
   },
   "B09ZKRTYHT": {
     "name": "Pokemon TCG GO Elite - Caja de Entrenamiento",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GV1Q677Y": {
     "name": "Pok\u00e9mon Paquete de Sobres de Refuerzo de Megaevoluci\u00f3n-Equilibrio Perfecto de JCC Producto en Espa\u00f1ol de Lationamerica",
@@ -181,7 +181,7 @@
   },
   "B0G1CFVHQG": {
     "name": "Pokemon TCG Juego de Cartas Coleccionables Triple Whammy Lata con 3 Paquetes de Refuerzo y 3 Cartas Promocionales (Tyranitar)",
-    "in_stock": false
+    "in_stock": true
   },
   "B0G5HWHQQR": {
     "name": "Team Rocket's Articuno, Zapdos y Tyranitar Pokemon TCG Juego de cartas coleccionables incluye 3 tarjetas promocionales, con 2 paquetes de refuerzo de chispas crecientes, Twighlight Maquerade y moneda",
@@ -313,7 +313,7 @@
   },
   "B0GWK8FS18": {
     "name": "Pok?mon Tcg: Lumiose City Mini Tin Feraligatr/budew",
-    "in_stock": true
+    "in_stock": false
   },
   "B0FSYNCDBD": {
     "name": "Juego de cartas coleccionables de Pokemon TCG: Mega Evolution 8 paquetes de refuerzo con fundas \u2013 80 cartas",
@@ -913,6 +913,10 @@
   },
   "B0DZ2QNKM2": {
     "name": "Pok\u00e9mon: Colecci\u00f3n Especial Bolsa de Accesorios Escarlata y Violeta \u2013 Evoluciones Prism\u00e1ticas del JCC (5 Refuerzos y una Bolsa de Accesorios)",
+    "in_stock": false
+  },
+  "B0FLP56YW2": {
+    "name": "Pok\u00e9mon TCG: Kit de Herramientas para Entrenador",
     "in_stock": false
   }
 }
