@@ -129,7 +129,7 @@
   },
   "B0GR6Q72ND": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Chaos Rising Booster Bundle",
-    "in_stock": true
+    "in_stock": false
   },
   "B0F6PQLR16": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014White Flare Binder Collection",
@@ -177,7 +177,7 @@
   },
   "B0G1C4WPND": {
     "name": "Pokemon TCG Juego de cartas coleccionables Triple Whammy Lata con 3 paquetes de refuerzo y 3 tarjetas promocionales (Darkrai)",
-    "in_stock": true
+    "in_stock": false
   },
   "B0G1CFVHQG": {
     "name": "Pokemon TCG Juego de Cartas Coleccionables Triple Whammy Lata con 3 Paquetes de Refuerzo y 3 Cartas Promocionales (Tyranitar)",
@@ -493,7 +493,7 @@
   },
   "B0GWKCLH6G": {
     "name": "Pokmon Collectible Card Tcg: Mega Moonlit",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GXT3B3YZ": {
     "name": "5 Pok\u00e9mon - Lote de Tarjetas Ultra Raras de Mega Evoluci\u00f3n ex - Variedad Surtida - Sin Duplicados",
@@ -917,6 +917,18 @@
   },
   "B0FLP56YW2": {
     "name": "Pok\u00e9mon TCG: Kit de Herramientas para Entrenador",
+    "in_stock": false
+  },
+  "B0F2TWLZQX": {
+    "name": "Pok\u00e9mon TCG: Team Rocket\u2019s Mewtwo ex Box",
+    "in_stock": false
+  },
+  "B0HG695MZV": {
+    "name": "Pok\u00e9mon Booster Bundle TCG Mascarada Crepuscular (Twilight Masquerade) - 6 Sobres en Espa\u00f1ol",
+    "in_stock": false
+  },
+  "B0HG63R73F": {
+    "name": "Pok\u00e9mon Booster Bundle TCG Brecha Parad\u00f3jica (Paradox Rift) - 6 Sobres en Espa\u00f1ol",
     "in_stock": false
   }
 }
