@@ -545,7 +545,7 @@
   },
   "B0HG39D87N": {
     "name": "Pok\u00e9mon Bl\u00edster de 3 Sobres de Refuerzo de Megaevoluci\u00f3n-Dominio Delta de JCC",
-    "in_stock": false
+    "in_stock": true
   },
   "B0HG3C5JK6": {
     "name": "Pok\u00e9mon Paquete de Sobres de Refuerzo de Megaevoluci\u00f3n-Dominio Delta de JCC",
@@ -953,6 +953,10 @@
   },
   "B0FVTJ7GCG": {
     "name": "Juego de cartas coleccionables de Pokemon TCG Mega Evolutions Mini latas \u2013 2 paquetes, 1 Rivales Destinados, 1 pegatina Mega Evolution Plus y tarjeta de arte (Mega Venusaur)",
+    "in_stock": false
+  },
+  "B0FJX86YTG": {
+    "name": "Pok\u00e9mon TCG: Mega Latias Ex Box",
     "in_stock": false
   }
 }
