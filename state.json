@@ -205,7 +205,7 @@
   },
   "B0DYR8D7YC": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GZ44CXS4": {
     "name": "Pokemon TCG Caja de Booster - CBB5C: Vol. 5 Paquete de Gemas (Chino)",
@@ -961,6 +961,14 @@
   },
   "B0H3ZKRT3D": {
     "name": "\u00c1lbum de Tarjetas Coleccionables 9 Bolsillos 900Capacidad con Cremallera(A) | Material PU impermeable,3 anillas desmontables, protege y organiza tarjetas, ideal para TCG, Panini, torneos y coleccionistas",
+    "in_stock": false
+  },
+  "B0G3XL9P92": {
+    "name": "Pok\u00e9mon TCG: Colecci\u00f3n Pok\u00e9mon Day 2026 (1 Tarjeta Promocional, 1 Moneda y 3 Paquetes de Refuerzo)",
+    "in_stock": false
+  },
+  "B0GPMCKRF2": {
+    "name": "Pokemon TCG Juego de cartas coleccionables Mega Evolutions Ascended Heroes 2 paquetes, 1 tarjeta promocional y una moneda (Larry's Komala)",
     "in_stock": false
   }
 }
