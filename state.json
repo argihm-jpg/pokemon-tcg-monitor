@@ -5,7 +5,7 @@
   },
   "B0GV1JQFWC": {
     "name": "Pokemon TCG: Mega Evolution-Perfect Order Pokemon Center Elite Trainer Box | PO PKC ETB | Promoci\u00f3n exclusiva de Tyrunt | 11 sobres de refuerzo",
-    "in_stock": true
+    "in_stock": false
   },
   "B0F18B4CVX": {
     "name": "Pok\u00e9mon - Juego de Cartas Scarlet & Violet Caja de Entrenador Mega Premium (Japon\u00e9s)",
@@ -73,7 +73,7 @@
   },
   "B0GGCCLCJM": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order 3-Booster Blister",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GGCDPJG9": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order Build & Battle Box",
@@ -269,7 +269,7 @@
   },
   "B0FQP3YQ47": {
     "name": "Pok\u00e9mon TCG Q4 Poke Ball Latas | 7.62 cm x 2.54 cm x 0.1 cm, incluye 3 paquetes de refuerzo, 2 hojas de pegatinas",
-    "in_stock": true
+    "in_stock": false
   },
   "B0GV1XKBM8": {
     "name": "Pok\u00e9mon Paquete de Sobres de Refuerzo de Megaevoluci\u00f3n-Llamaradas Fantasmales de JCC Producto en Espa\u00f1ol de Lationamerica",
@@ -389,7 +389,7 @@
   },
   "B0GZ9S9KDR": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Pitch Black Booster Display",
-    "in_stock": true
+    "in_stock": false
   },
   "B0GPF71NFJ": {
     "name": "Juego de cartas coleccionables Pok\u00e9mon TCG: Tarjeta promocional Mega Charizard ex y lata, viene con 4 paquetes (2 Phantasmal Flames, 1 Journey Together, 1 mega Evolution) (Mega Charizard Y ex)",
@@ -986,5 +986,17 @@
   "B0HBZCM7KT": {
     "name": "Pok\u00e9mon TCG. Mega Evolution Perfect Order Build & Battle Box + Paquete Sobres Refuerzo Megaevoluci\u00f3n Caos Creciente Espa\u00f1ol Latinoamericano",
     "in_stock": true
+  },
+  "B0D723P9J6": {
+    "name": "Pok\u00e9mon TCG Booster Bundle- Trick or Trade",
+    "in_stock": false
+  },
+  "B0HG6CKDH7": {
+    "name": "Pok\u00e9mon TCG: Booster Box Evoluciones en Paldea (Paldea Evolved) en Espa\u00f1ol. 36 Sobres",
+    "in_stock": false
+  },
+  "B0G5HWDR8Y": {
+    "name": "Pok\u00e9mon TCG: MegaCombate Mega Diancie EX Mazo Espa\u00f1ol Latino 2025",
+    "in_stock": false
   }
 }
