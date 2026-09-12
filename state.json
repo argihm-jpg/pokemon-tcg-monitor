@@ -25,7 +25,7 @@
   },
   "B0GR6N18F6": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Chaos Rising Elite Trainer Box, 1 Pieza",
-    "in_stock": true
+    "in_stock": false
   },
   "B0GGCLDXZL": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order Elite Trainer Box, 1 Pieza",
@@ -49,7 +49,7 @@
   },
   "B0G4B5HWYC": {
     "name": "Pokemon TCG - Cajas del Juego de Cartas Coleccionables Black Kyurem ex y Melmetal ex Box 2 cajas, 4 paquetes por caja y 2 tarjetas promocionales con una tarjeta de gran formato",
-    "in_stock": false
+    "in_stock": true
   },
   "B09ZKRTYHT": {
     "name": "Pokemon TCG GO Elite - Caja de Entrenamiento",
@@ -129,7 +129,7 @@
   },
   "B0GR6Q72ND": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Chaos Rising Booster Bundle",
-    "in_stock": false
+    "in_stock": true
   },
   "B0F6PQLR16": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014White Flare Binder Collection",
@@ -465,7 +465,7 @@
   },
   "B0H82Z5XX1": {
     "name": "Juego de tarjetas de primer socio de Pokemon 30 aniversario, Vol. 2 (chino)",
-    "in_stock": true
+    "in_stock": false
   },
   "B0FVTG6GFX": {
     "name": "Juego de cartas coleccionables de Pokemon TCG Mega Evolutions Mini latas \u2013 2 paquetes, 1 Rivales Destinados, 1 pegatina Mega Evolution Plus y tarjeta de arte (Mega Latias)",
@@ -493,7 +493,7 @@
   },
   "B0GWKCLH6G": {
     "name": "Pokmon Collectible Card Tcg: Mega Moonlit",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GXT3B3YZ": {
     "name": "5 Pok\u00e9mon - Lote de Tarjetas Ultra Raras de Mega Evoluci\u00f3n ex - Variedad Surtida - Sin Duplicados",
@@ -537,7 +537,7 @@
   },
   "B0CXY99B6D": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet - Twilight Masquerade Elite Trainer Box",
-    "in_stock": true
+    "in_stock": false
   },
   "B0HB62YC3V": {
     "name": "Pokemon TCG CSV9.5C - Juego de monedas Terastal Gathering (1 sobres y 1 tarjeta promocional, 1 moneda coleccionable, Eevee y Eeveelutions (Sylveon)",
@@ -1029,6 +1029,10 @@
   },
   "B0H6DTXPK1": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Ascended Heroes Tin",
+    "in_stock": false
+  },
+  "B0F2NCNS8P": {
+    "name": "Pok\u00e9mon \u2013 Viaje Juntos \u2013 Paquete Booster \u00danico \u2013 10 Cartas \u2013 El Arte del Paquete Puede Variar",
     "in_stock": false
   }
 }
