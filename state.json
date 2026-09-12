@@ -217,7 +217,7 @@
   },
   "B0D9PX5VDC": {
     "name": "Pok\u00e9mon Charizard ex Super-Premium Collection",
-    "in_stock": true
+    "in_stock": false
   },
   "B0FHPKXRYC": {
     "name": "Pok\u00e9mon TCG: Caja de visualizaci\u00f3n Mejorada Mega Evolution",
@@ -389,7 +389,7 @@
   },
   "B0GZ9S9KDR": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Pitch Black Booster Display",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GPF71NFJ": {
     "name": "Juego de cartas coleccionables Pok\u00e9mon TCG: Tarjeta promocional Mega Charizard ex y lata, viene con 4 paquetes (2 Phantasmal Flames, 1 Journey Together, 1 mega Evolution) (Mega Charizard Y ex)",
@@ -589,7 +589,7 @@
   },
   "B0DN98RVZM": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014Prismatic Evolutions Booster Bundle",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GWK631XY": {
     "name": "Pokmon Collectible Card Tcg: Mega Moonlit | Mega Moonlit, incluye 1 carta promocional, 4 sobres booster",
@@ -669,7 +669,7 @@
   },
   "B0DDYXQCZ4": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet-Surging Sparks Elite Trainer Box",
-    "in_stock": false
+    "in_stock": true
   },
   "B0H2JVZYZZ": {
     "name": "Pok\u00e9mon TCG: First Partner Illustration Collection\u2014Series 3",
@@ -1014,5 +1014,9 @@
   "B0CH9H7MTN": {
     "name": "XIAOYANGKEJI - \u00c1lbum de Tarjetas de 540 Tarjetas - Carpeta para Tarjetas con 9 Bosillos 30 P\u00e1ginas - Gran Capacidad Coleccionador de Tarjetas para Pok\u00e9mon para Cartas de MTG, Digimon, Magic, YUGIOH",
     "in_stock": false
+  },
+  "B0B9H35JRD": {
+    "name": "Pok\u00e9mon PKM VSTAR Oct Premium Colecci\u00f3n #2",
+    "in_stock": true
   }
 }
