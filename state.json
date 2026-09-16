@@ -293,7 +293,7 @@
   },
   "B0GXJ8CSTY": {
     "name": "Pok\u00e9mon Mega Greninja ex Premium Collection",
-    "in_stock": false
+    "in_stock": true
   },
   "B0F1DGS4J7": {
     "name": "Lot de 1 soporte de acr\u00edlico para Pok\u00e9mon TCG Ultra Premium Collection Dracaufeu",
@@ -589,7 +589,7 @@
   },
   "B0DN98RVZM": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014Prismatic Evolutions Booster Bundle",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GWK631XY": {
     "name": "Pokmon Collectible Card Tcg: Mega Moonlit",
@@ -1089,6 +1089,10 @@
   },
   "B0C6D9LWCQ": {
     "name": "Pok\u00e9mon - TCG: Scarlet & Violet Obsidian Flames Elite Trainer Box",
+    "in_stock": false
+  },
+  "B0CXYPZKBL": {
+    "name": "Pokemon TCG Armarouge ex Premium Collection Box",
     "in_stock": false
   }
 }
