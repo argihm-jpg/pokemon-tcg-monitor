@@ -177,7 +177,7 @@
   },
   "B0G1C4WPND": {
     "name": "Pokemon TCG Juego de cartas coleccionables Triple Whammy Lata con 3 paquetes de refuerzo y 3 tarjetas promocionales (Darkrai)",
-    "in_stock": true
+    "in_stock": false
   },
   "B0G1CFVHQG": {
     "name": "Pokemon TCG Juego de Cartas Coleccionables Triple Whammy Lata con 3 Paquetes de Refuerzo y 3 Cartas Promocionales (Tyranitar)",
@@ -377,7 +377,7 @@
   },
   "B0GVBC59H8": {
     "name": "Juego de cartas coleccionables Pok\u00e9mon TCG Trading Card Game 2 paquetes blister: 1 Phantasmal Flames, 1 Mega Evolution y 3 cartas promocionales Oddish, Vileplume, Gloom y Moneda",
-    "in_stock": false
+    "in_stock": true
   },
   "B0F6PJ15QH": {
     "name": "Pok\u00e9mon TCG Scarlet & Violet 10.5 White Flare Booster Bundle Set",
@@ -1205,6 +1205,10 @@
   },
   "B0GPZW7C8Y": {
     "name": "Pok\u00e9mon TCG: Mini Portafolio Q1 2026",
+    "in_stock": false
+  },
+  "B0DLQMWC4H": {
+    "name": "Pok\u00e9mon TCG: Scarlet & Violet \u2014Prismatic Evolutions Accessory Pouch Collection",
     "in_stock": false
   }
 }
