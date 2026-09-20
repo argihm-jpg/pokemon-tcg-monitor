@@ -49,7 +49,7 @@
   },
   "B0G4B5HWYC": {
     "name": "Pokemon TCG - Cajas del Juego de Cartas Coleccionables Black Kyurem ex y Melmetal ex Box 2 cajas, 4 paquetes por caja y 2 tarjetas promocionales con una tarjeta de gran formato",
-    "in_stock": false
+    "in_stock": true
   },
   "B09ZKRTYHT": {
     "name": "Pokemon TCG GO Elite - Caja de Entrenamiento",
@@ -293,7 +293,7 @@
   },
   "B0GXJ8CSTY": {
     "name": "Pok\u00e9mon Mega Greninja ex Premium Collection",
-    "in_stock": false
+    "in_stock": true
   },
   "B0F1DGS4J7": {
     "name": "Lot de 1 soporte de acr\u00edlico para Pok\u00e9mon TCG Ultra Premium Collection Dracaufeu",
@@ -537,7 +537,7 @@
   },
   "B0CXY99B6D": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet - Twilight Masquerade Elite Trainer Box",
-    "in_stock": false
+    "in_stock": true
   },
   "B0HB62YC3V": {
     "name": "Pokemon TCG CSV9.5C - Juego de monedas Terastal Gathering (1 sobres y 1 tarjeta promocional, 1 moneda coleccionable, Eevee y Eeveelutions (Sylveon)",
@@ -545,7 +545,7 @@
   },
   "B0HG39D87N": {
     "name": "Pok\u00e9mon Bl\u00edster de 3 Sobres de Refuerzo de Megaevoluci\u00f3n-Dominio Delta de JCC",
-    "in_stock": false
+    "in_stock": true
   },
   "B0HG3C5JK6": {
     "name": "Pok\u00e9mon Paquete de Sobres de Refuerzo de Megaevoluci\u00f3n-Dominio Delta de JCC",
@@ -1254,5 +1254,13 @@
   "B08DN23BSM": {
     "name": "Pokemon TCG: Champion's Path Elite - Caja de Entrenador, Multicolor",
     "in_stock": true
+  },
+  "B0C8TWNZQN": {
+    "name": "Paquete de 1 juego de cartas Pok\u00e9mon japon\u00e9s, sobre de cartas 151 SV2a (7 tarjetas por paquete)",
+    "in_stock": false
+  },
+  "B0FPMT3SWJ": {
+    "name": "Pok\u00e9mon TCG: Snorlax ex & Blissey ex Special Collection (2 Tarjetas promocionales de Aluminio, 1 Tarjeta de Gran tama\u00f1o y 8 Paquetes de Refuerzo)",
+    "in_stock": false
   }
 }
