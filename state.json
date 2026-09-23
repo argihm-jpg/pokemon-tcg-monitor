@@ -225,7 +225,7 @@
   },
   "B0GYTWKXTR": {
     "name": "Pok?mon Tcg: Mega Evolution?pitch Black Three-booster Blister",
-    "in_stock": false
+    "in_stock": true
   },
   "B0G3CY83L5": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014 Ascended Heroes Elite Trainer Box",
@@ -293,7 +293,7 @@
   },
   "B0GXJ8CSTY": {
     "name": "Pok\u00e9mon Mega Greninja ex Premium Collection",
-    "in_stock": false
+    "in_stock": true
   },
   "B0F1DGS4J7": {
     "name": "Lot de 1 soporte de acr\u00edlico para Pok\u00e9mon TCG Ultra Premium Collection Dracaufeu",
@@ -385,7 +385,7 @@
   },
   "B0GYTRYV7P": {
     "name": "Pok?mon Tcg: Mega Evolution?pitch Black Booster Bundle",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GZ9S9KDR": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Pitch Black Booster Display",
@@ -553,7 +553,7 @@
   },
   "B0HG3RVZLW": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Booster Bundle",
-    "in_stock": false
+    "in_stock": true
   },
   "B0HG3JBNBN": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Three-Booster Blister",
@@ -577,7 +577,7 @@
   },
   "B0F2BCG1Y5": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet - Destined Rivals - Booster Bundle",
-    "in_stock": false
+    "in_stock": true
   },
   "B0FH5N9RH4": {
     "name": "Pok\u00e9mon TCG: Mega Evolution - Booster Bundle",
@@ -633,7 +633,7 @@
   },
   "B0FPM3LQJ4": {
     "name": "Pok\u00e9mon TCG Mega Evolutions 2 Phantasmal Flames Elite Trainer Box",
-    "in_stock": true
+    "in_stock": false
   },
   "B0B9M6N4F1": {
     "name": "Pok\u00e9mon TCG: Sword & Shield Colecci\u00f3n Ultra-Premium, Charizard",
@@ -1265,7 +1265,7 @@
   },
   "B0HGNHT76M": {
     "name": "Pokemon TCG: 30th Celebration Greninja ex Box",
-    "in_stock": false
+    "in_stock": true
   },
   "B0FP97RKFZ": {
     "name": "\u00c1lbum de Tarjetas de 1206 Tarjetas, Carpeta para Tarjetas con 9 Bosillos 67 P\u00e1ginas, Gran Capacidad Coleccionador de Tarjetas para Pok\u00e9mon para Cartas de MTG, Digimon, Magic, YUGIOH",
@@ -1278,5 +1278,9 @@
   "B09WRW5CVF": {
     "name": "60 cartas coleccionables surtidas, caja de cartas coleccionables Pokemon TCG, con 1 GX/V/VMAX/VSTAR, caja de 5 holos",
     "in_stock": true
+  },
+  "B0FH5Q1H24": {
+    "name": "Pok\u00e9mon TCG: Mega Evolution - Build & Battle Box",
+    "in_stock": false
   }
 }
