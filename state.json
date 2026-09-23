@@ -45,7 +45,7 @@
   },
   "B0GWK55V53": {
     "name": "Pok\u00e9mon TCG: Lumiose City Mini Tin Meganium/Meowstic",
-    "in_stock": true
+    "in_stock": false
   },
   "B0G4B5HWYC": {
     "name": "Pokemon TCG - Cajas del Juego de Cartas Coleccionables Black Kyurem ex y Melmetal ex Box 2 cajas, 4 paquetes por caja y 2 tarjetas promocionales con una tarjeta de gran formato",
@@ -305,7 +305,7 @@
   },
   "B0DSLXPCJW": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014Journey Together Booster Bundle",
-    "in_stock": false
+    "in_stock": true
   },
   "B0H784PD4X": {
     "name": "Pok\u00e9mon TCG: 30TH Celebration Ultra-Premium Collection (Day OR Night SE ENV\u00cdA Aleatorio)",
@@ -537,7 +537,7 @@
   },
   "B0CXY99B6D": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet - Twilight Masquerade Elite Trainer Box",
-    "in_stock": false
+    "in_stock": true
   },
   "B0HB62YC3V": {
     "name": "Pokemon TCG CSV9.5C - Juego de monedas Terastal Gathering (1 sobres y 1 tarjeta promocional, 1 moneda coleccionable, Eevee y Eeveelutions (Sylveon)",
@@ -669,7 +669,7 @@
   },
   "B0DDYXQCZ4": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet-Surging Sparks Elite Trainer Box",
-    "in_stock": false
+    "in_stock": true
   },
   "B0H2JVZYZZ": {
     "name": "Pok\u00e9mon TCG: First Partner Illustration Collection\u2014Series 3",
@@ -1274,5 +1274,9 @@
   "B0H973PPBB": {
     "name": "Pok\u00e9mon megaevolucion Ascenso heroico colecci\u00f3n con calcoman\u00edas espa\u00f1ol",
     "in_stock": false
+  },
+  "B09WRW5CVF": {
+    "name": "60 cartas coleccionables surtidas, caja de cartas coleccionables Pokemon TCG, con 1 GX/V/VMAX/VSTAR, caja de 5 holos",
+    "in_stock": true
   }
 }
