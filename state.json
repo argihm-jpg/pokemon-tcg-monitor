@@ -577,7 +577,7 @@
   },
   "B0F2BCG1Y5": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet - Destined Rivals - Booster Bundle",
-    "in_stock": false
+    "in_stock": true
   },
   "B0FH5N9RH4": {
     "name": "Pok\u00e9mon TCG: Mega Evolution - Booster Bundle",
@@ -1418,5 +1418,13 @@
   "B0981DRXGP": {
     "name": "Pokemon TCG: Colecci\u00f3n Pikachu V Union 25th Anniversary",
     "in_stock": true
+  },
+  "B0BKK2W4G1": {
+    "name": "Pokemon - Charizard Vmax - Alfombra de juego - Colecci n Ultra Premium",
+    "in_stock": false
+  },
+  "B0G3CT3VFH": {
+    "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Ascended Heroes Mini Tin - Pikachu and Tepig",
+    "in_stock": false
   }
 }
