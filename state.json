@@ -237,7 +237,7 @@
   },
   "B0BCN6HZR3": {
     "name": "Pok\u00e9mon TCG: Sword & Shield Silver Tempest Elite Trainer Box",
-    "in_stock": true
+    "in_stock": false
   },
   "B0H2N248WM": {
     "name": "Pokemon TCG: Mega Evolution Chaos Rising Pokemon Center Elite Trainer Box | CR PKC ETB | Promoci\u00f3n exclusiva de Fennekin | 11 sobres de refuerzo",
@@ -529,7 +529,7 @@
   },
   "B0GW2DK37Q": {
     "name": "Pok\u00e9mon TCG: First Partner Illustration Collection\u2014Series 2",
-    "in_stock": true
+    "in_stock": false
   },
   "B089NFGBLN": {
     "name": "Pok\u00e9mon TCG: Sword & Shield Darkness Ablaze Elite - Caja de Entrenador, Multicolor",
@@ -1353,7 +1353,7 @@
   },
   "B0H8SV3WJ8": {
     "name": "Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (1 tarjeta promocional de arte completo, 9 paquetes de refuerzo y accesorios premium)",
-    "in_stock": true
+    "in_stock": false
   },
   "B0H7X1QBCY": {
     "name": "900 Bolsillos Hojas para \u00c1lbum de Cartas Coleccionables, 50 P\u00e1ginas de 9 Bolsillos, Fundas Protectoras para Tarjetas TCG, Compatible con Carpeta de 3 Anillas, Transparente, Negro",
@@ -1386,5 +1386,17 @@
   "B0GVBKKR95": {
     "name": "Juego de cartas intercambiables Pok\u00e9mon TCG Caja de coleccionista Azure Legends de 4 paquetes de refuerzo de Escarlata y Violeta con tarjeta promocional (Xerneas)",
     "in_stock": true
+  },
+  "B0CMJRM4YZ": {
+    "name": "Pokemon: Scarlet & Violet 4: Paradox Rift Booster Build & Battle Box - 4 Paquetes, promociones",
+    "in_stock": false
+  },
+  "B0H77W4NZH": {
+    "name": "Pok\u00e9mon COLECCI\u00d3N con CALCOMAN\u00cdAS para Dispositivos DE CELEBRACI\u00d3N 30.\u00ba Aniversario DE JCC",
+    "in_stock": false
+  },
+  "B0H786SFFS": {
+    "name": "Pok\u00e9mon TCG: 30TH Celebration Figure Collection\u2014Mewtwo",
+    "in_stock": false
   }
 }
