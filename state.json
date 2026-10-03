@@ -397,7 +397,7 @@
   },
   "B0GYVHLP4L": {
     "name": "Pok?mon Tcg: Mega Evolution?pitch Black Elite Trainer Box",
-    "in_stock": true
+    "in_stock": false
   },
   "B0H7L8LDD3": {
     "name": "Pok\u00e9mon. Caja Entrenador \u00c9lite Megaevoluci\u00f3n-Tinieblas Umbr\u00edas JCC Espa\u00f1ol Latino + TCG Mega Evolution Pitch Black Elite Trainer Box",
@@ -989,7 +989,7 @@
   },
   "B0D723P9J6": {
     "name": "Pok\u00e9mon TCG Booster Bundle- Trick or Trade",
-    "in_stock": false
+    "in_stock": true
   },
   "B0HG6CKDH7": {
     "name": "Pok\u00e9mon TCG: Booster Box Evoluciones en Paldea (Paldea Evolved) en Espa\u00f1ol. 36 Sobres",
@@ -1473,6 +1473,26 @@
   },
   "B0CNDF7GKW": {
     "name": "Pok\u00e9mon TCG: Colecci\u00f3n cl\u00e1sica (edici\u00f3n Limitada)",
+    "in_stock": false
+  },
+  "B0GXCRBL5J": {
+    "name": "Juego de Cartas Pokemon Mega Paquete de expansi\u00f3n 30\u00aa Caja de celebraci\u00f3n",
+    "in_stock": true
+  },
+  "B0C8XNMGWK": {
+    "name": "Pok\u00e9mon TCG: Scarlet & Violet \u2014 151 Ultra-Premium Collection",
+    "in_stock": false
+  },
+  "B08S6KMQCT": {
+    "name": "Pok\u00e9mon TCG: Venusaur/Blastoise VMAX Caja de Batalla",
+    "in_stock": false
+  },
+  "B0H77W342Y": {
+    "name": "Pok\u00e9mon Paquete DE Sobres DE Refuerzo DE CELEBRACI\u00d3N 30.\u00ba Aniversario DE JCC Producto EN ESPA\u00d1OL LATINOAMERICANO",
+    "in_stock": false
+  },
+  "B0HHG7TBSC": {
+    "name": "Pok\u00e9mon TCG Escarlata Y Purpura Llamas OBSIDIANAS Booster Box ESPA\u00d1OL",
     "in_stock": false
   }
 }
