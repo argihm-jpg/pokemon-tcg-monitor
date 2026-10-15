@@ -129,7 +129,7 @@
   },
   "B0GR6Q72ND": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Chaos Rising Booster Bundle",
-    "in_stock": false
+    "in_stock": true
   },
   "B0F6PQLR16": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014White Flare Binder Collection",
@@ -328,7 +328,7 @@
     "in_stock": false
   },
   "B0H7817G9M": {
-    "name": "Pok\u00e9mon TCG: 30TH Celebration Sylveon EX Box",
+    "name": "Pok\u00e9mon Tcg: 30TH Celebration Sylveon Ex Box",
     "in_stock": false
   },
   "B0GV1PXKJ2": {
@@ -1621,6 +1621,10 @@
   },
   "B0HC2SY8L4": {
     "name": "Carpeta Profesional Binder TCG 400 Tarjetas, \u00c1lbum para Cartas",
+    "in_stock": false
+  },
+  "B09S3ZDQQW": {
+    "name": "Pokemon Lucario Vstar Premium Collection Box - 6 paquetes de refuerzo",
     "in_stock": false
   }
 }
