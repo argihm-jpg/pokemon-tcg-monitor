@@ -113,7 +113,7 @@
   },
   "B0GWK2GJ8Y": {
     "name": "Pok\u00e9mon TCG: Lumiose City Mini Tin Gallade/Gloomy",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GSJMQ3QQ": {
     "name": "Pok?mon Tcg: Mega Evolution?chaos Rising Booster Display",
@@ -217,7 +217,7 @@
   },
   "B0D9PX5VDC": {
     "name": "Pok\u00e9mon Charizard ex Super-Premium Collection",
-    "in_stock": true
+    "in_stock": false
   },
   "B0FHPKXRYC": {
     "name": "Pok\u00e9mon TCG: Caja de visualizaci\u00f3n Mejorada Mega Evolution",
@@ -337,7 +337,7 @@
   },
   "B0GWK2Z6QJ": {
     "name": "Pok?mon Tcg: Lumiose City Mini Tin Salamence/litleo",
-    "in_stock": true
+    "in_stock": false
   },
   "B0G71VXSWN": {
     "name": "Pok\u00e9mon Tcg: Mega Evolution\u2014ascended Heroes First Partners Deluxe Pin Collection (3 Tarjetas Promocionales de Aluminio, 1 de Lujo y 5 Paquetes de Refuerzo)",
@@ -553,7 +553,7 @@
   },
   "B0HG3RVZLW": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Booster Bundle",
-    "in_stock": false
+    "in_stock": true
   },
   "B0HG3JBNBN": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Three-Booster Blister",
@@ -589,7 +589,7 @@
   },
   "B0DN98RVZM": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014Prismatic Evolutions Booster Bundle",
-    "in_stock": true
+    "in_stock": false
   },
   "B0GWK631XY": {
     "name": "Pokmon Collectible Card Tcg: Mega Moonlit",
@@ -924,7 +924,7 @@
     "in_stock": false
   },
   "B0HG695MZV": {
-    "name": "Pok\u00e9mon Booster Bundle TCG Mascarada Crepuscular (Twilight Masquerade) - 6 Sobres en Espa\u00f1ol",
+    "name": "Pok\u00e9mon Booster Bundle Tcg Mascarada Crepuscular (Twilight Masquerade)",
     "in_stock": false
   },
   "B0HG63R73F": {
@@ -1352,7 +1352,7 @@
     "in_stock": false
   },
   "B0H8SV3WJ8": {
-    "name": "Pok\u00e9mon TCG: Caja de Entrenador \u00c9lite de la Celebraci\u00f3n del 30\u00ba Aniversario (1 Tarjeta Promo de Arte Completo, 9 Paquetes de Refuerzo y Accesorios Premium)",
+    "name": "Pok\u00e9mon Tcg: 30th Celebration Elite Trainer Box",
     "in_stock": false
   },
   "B0H7X1QBCY": {
@@ -1626,5 +1626,9 @@
   "B09S3ZDQQW": {
     "name": "Pokemon Lucario Vstar Premium Collection Box - 6 paquetes de refuerzo",
     "in_stock": false
+  },
+  "B0GWKCMC29": {
+    "name": "Pok?mon 2025 Tcgworld Championships Deck Riley Mckay",
+    "in_stock": true
   }
 }
