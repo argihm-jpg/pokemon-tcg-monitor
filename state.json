@@ -25,7 +25,7 @@
   },
   "B0GR6N18F6": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Chaos Rising Elite Trainer Box, 1 Pieza",
-    "in_stock": true
+    "in_stock": false
   },
   "B0GGCLDXZL": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order Elite Trainer Box, 1 Pieza",
@@ -133,7 +133,7 @@
   },
   "B0F6PQLR16": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014White Flare Binder Collection",
-    "in_stock": true
+    "in_stock": false
   },
   "B0FG5B8TKV": {
     "name": "Pok\u00e9mon TCG Venusaur ex & Blastoise ex Premium Collection",
@@ -269,7 +269,7 @@
   },
   "B0FQP3YQ47": {
     "name": "Pok\u00e9mon TCG Q4 Poke Ball Latas",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GV1XKBM8": {
     "name": "Pok\u00e9mon Paquete de Sobres de Refuerzo de Megaevoluci\u00f3n-Llamaradas Fantasmales de JCC Producto en Espa\u00f1ol de Lationamerica",
@@ -669,7 +669,7 @@
   },
   "B0DDYXQCZ4": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet-Surging Sparks Elite Trainer Box",
-    "in_stock": true
+    "in_stock": false
   },
   "B0H2JVZYZZ": {
     "name": "Pok\u00e9mon TCG: First Partner Illustration Collection\u2014Series 3",
@@ -944,7 +944,7 @@
     "in_stock": false
   },
   "B0HCPYZC46": {
-    "name": "Pok\u00e9mon TCG: Caja de Mega Latias ex (Espa\u00f1ol)",
+    "name": "Pok\u00e9mon Tcg: Caja de Mega Latias Ex (Espa\u00f1ol)",
     "in_stock": false
   },
   "B0BDRWQQ26": {
@@ -989,7 +989,7 @@
   },
   "B0D723P9J6": {
     "name": "Pok\u00e9mon TCG Booster Bundle- Trick or Trade",
-    "in_stock": true
+    "in_stock": false
   },
   "B0HG6CKDH7": {
     "name": "Pok\u00e9mon TCG: Booster Box Evoluciones en Paldea (Paldea Evolved) en Espa\u00f1ol. 36 Sobres",
@@ -1645,6 +1645,10 @@
   },
   "B0GRV7YT1X": {
     "name": "35PT Tarjeteros Magn\u00e9tico para Tarjetas Coleccionable 25PZS, Estuche Protector Fundas Acr\u00edlica R\u00edgida para Carta, Protecci\u00f3n UV, Portas para Almacenar Exhibir Tarjeta de TCG B\u00e9isbol F\u00fatbol MTG Yugioh",
+    "in_stock": false
+  },
+  "B0HCPSQB3R": {
+    "name": "Pok\u00e9mon TCG: Caja de Lugia Ex Colecci\u00f3n Especial (Espa\u00f1ol)",
     "in_stock": false
   }
 }
