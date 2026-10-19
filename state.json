@@ -25,7 +25,7 @@
   },
   "B0GR6N18F6": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Chaos Rising Elite Trainer Box, 1 Pieza",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GGCLDXZL": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order Elite Trainer Box, 1 Pieza",
@@ -73,7 +73,7 @@
   },
   "B0GGCCLCJM": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order 3-Booster Blister",
-    "in_stock": true
+    "in_stock": false
   },
   "B0GGCDPJG9": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order Build & Battle Box",
@@ -293,7 +293,7 @@
   },
   "B0GXJ8CSTY": {
     "name": "Pok\u00e9mon Mega Greninja ex Premium Collection",
-    "in_stock": false
+    "in_stock": true
   },
   "B0F1DGS4J7": {
     "name": "Lot de 1 soporte de acr\u00edlico para Pok\u00e9mon TCG Ultra Premium Collection Dracaufeu",
@@ -1661,6 +1661,10 @@
   },
   "B0GBLRFVQG": {
     "name": "Pokemon Trick or Trade (3 tarjetas) Booster Pack \u2013 Serie 2024 \u2013 x5 lote \u2013 Cosmos Foil Exclusives",
+    "in_stock": false
+  },
+  "B0GDS8G2TR": {
+    "name": "Colecci\u00f3n oficial de 50+ tarjetas japonesas de Pok\u00e9mon con 5 l\u00e1minas en cualquier combinaci\u00f3n y al menos 1 doble rara o m\u00e1s alta rareza - ex, V, GX",
     "in_stock": false
   }
 }
