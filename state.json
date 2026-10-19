@@ -237,7 +237,7 @@
   },
   "B0BCN6HZR3": {
     "name": "Pok\u00e9mon TCG: Sword & Shield Silver Tempest Elite Trainer Box",
-    "in_stock": false
+    "in_stock": true
   },
   "B0H2N248WM": {
     "name": "Pokemon TCG: Mega Evolution Chaos Rising Pokemon Center Elite Trainer Box | CR PKC ETB | Promoci\u00f3n exclusiva de Fennekin | 11 sobres de refuerzo",
@@ -1658,5 +1658,9 @@
   "B0HKV3CBLQ": {
     "name": "Paquete misterioso de cartas Pok\u00e9mon graduadas \u2013 1 losa TCG al azar en el interior \u2013 Bolsa misteriosa de coleccionista",
     "in_stock": true
+  },
+  "B0GBLRFVQG": {
+    "name": "Pokemon Trick or Trade (3 tarjetas) Booster Pack \u2013 Serie 2024 \u2013 x5 lote \u2013 Cosmos Foil Exclusives",
+    "in_stock": false
   }
 }
