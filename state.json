@@ -265,7 +265,7 @@
   },
   "B0H783FY5Z": {
     "name": "Pok\u00e9mon 30TH Celebration Booster Bundle",
-    "in_stock": true
+    "in_stock": false
   },
   "B0FQP3YQ47": {
     "name": "Pok\u00e9mon TCG Q4 Poke Ball Latas",
@@ -621,7 +621,7 @@
   },
   "B0F2BDXW4J": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box",
-    "in_stock": true
+    "in_stock": false
   },
   "B0FPDLTVVV": {
     "name": "Pok\u00e9mon TCG: Mega Charizard X ex Ultra-Premium Collection",
@@ -1317,7 +1317,7 @@
   },
   "B08GZ7XP18": {
     "name": "Pok\u00e9mon: Vivid Voltage- Elite Trainer Box",
-    "in_stock": true
+    "in_stock": false
   },
   "B0DNQ2Y9VT": {
     "name": "Pokemon - Lapras ex SVP 164 - Gold Full Art - Tarjeta promocional Terapagos Ultra Premium Collection - Exclusiva",
@@ -1686,5 +1686,9 @@
   "B0HNXL51YB": {
     "name": "Pok\u00e9mon TCG Mega Evolution Chaos Rising Booster Bundle + Paquete de Sobres de Refuerzo de Megaevoluci\u00f3n Equilibrio Perfecto en Espa\u00f1ol",
     "in_stock": true
+  },
+  "B0CNFJ4QBP": {
+    "name": "Pok\u00e9mon - Scarlet & Violet Paldean Fates Booster Bundle - 6pk Box",
+    "in_stock": false
   }
 }
