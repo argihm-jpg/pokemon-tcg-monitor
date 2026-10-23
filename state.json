@@ -177,7 +177,7 @@
   },
   "B0G1C4WPND": {
     "name": "Pokemon TCG Juego de cartas coleccionables Triple Whammy Lata con 3 paquetes de refuerzo y 3 tarjetas promocionales (Darkrai)",
-    "in_stock": false
+    "in_stock": true
   },
   "B0G1CFVHQG": {
     "name": "Pokemon TCG Juego de Cartas Coleccionables Triple Whammy Lata con 3 Paquetes de Refuerzo y 3 Cartas Promocionales (Tyranitar)",
@@ -377,7 +377,7 @@
   },
   "B0GVBC59H8": {
     "name": "Juego de cartas coleccionables Pok\u00e9mon TCG Trading Card Game 2 paquetes blister: 1 Phantasmal Flames, 1 Mega Evolution y 3 cartas promocionales Oddish, Vileplume, Gloom y Moneda",
-    "in_stock": false
+    "in_stock": true
   },
   "B0F6PJ15QH": {
     "name": "Pok\u00e9mon TCG Scarlet & Violet 10.5 White Flare Booster Bundle Set",
@@ -517,7 +517,7 @@
   },
   "B0C1G3J2X5": {
     "name": "Pok\u00e9mon Juego de Cartas Coleccionable TCG: Trainer's Toolkit 2023-4 Paquetes, Cartas promocionales, Accesorios",
-    "in_stock": false
+    "in_stock": true
   },
   "B0F1FYWWGT": {
     "name": "RLAVBL 12-600 CT Caja de Almacenamiento de Cartas Coleccionables con 48 Divisores, Caja para Mazos de 12000+ Cartas para MTG, TCG, PTCG y Organizador de Cartas Deportivas",
@@ -989,7 +989,7 @@
   },
   "B0D723P9J6": {
     "name": "Pok\u00e9mon TCG Booster Bundle- Trick or Trade",
-    "in_stock": true
+    "in_stock": false
   },
   "B0HG6CKDH7": {
     "name": "Pok\u00e9mon TCG: Booster Box Evoluciones en Paldea (Paldea Evolved) en Espa\u00f1ol. 36 Sobres",
@@ -1690,5 +1690,9 @@
   "B0CNFJ4QBP": {
     "name": "Pok\u00e9mon - Scarlet & Violet Paldean Fates Booster Bundle - 6pk Box",
     "in_stock": false
+  },
+  "B0HP1SZYWS": {
+    "name": "Pok\u00e9mon TCG Mega Evolution Chaos Rising Booster Bundle TCG Lumiose City Mini Tin Salamence/Litleo",
+    "in_stock": true
   }
 }
