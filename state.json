@@ -989,7 +989,7 @@
   },
   "B0D723P9J6": {
     "name": "Pok\u00e9mon TCG Booster Bundle- Trick or Trade",
-    "in_stock": false
+    "in_stock": true
   },
   "B0HG6CKDH7": {
     "name": "Pok\u00e9mon TCG: Booster Box Evoluciones en Paldea (Paldea Evolved) en Espa\u00f1ol. 36 Sobres",
@@ -1694,5 +1694,13 @@
   "B0HP1SZYWS": {
     "name": "Pok\u00e9mon TCG Mega Evolution Chaos Rising Booster Bundle TCG Lumiose City Mini Tin Salamence/Litleo",
     "in_stock": true
+  },
+  "B0HLQSCTTP": {
+    "name": "Pokemon TCG: 30th Celebration Pokemon Center Elite Trainer Box",
+    "in_stock": false
+  },
+  "B0HDWX4J41": {
+    "name": "Pok\u00e9mon TCG: Colecci\u00f3n Deck Crafter (2026)",
+    "in_stock": false
   }
 }
