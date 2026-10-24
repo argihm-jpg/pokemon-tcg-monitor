@@ -129,7 +129,7 @@
   },
   "B0GR6Q72ND": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Chaos Rising Booster Bundle",
-    "in_stock": false
+    "in_stock": true
   },
   "B0F6PQLR16": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014White Flare Binder Collection",
@@ -325,7 +325,7 @@
   },
   "B0H7818YHY": {
     "name": "Pok\u00e9mon TCG: 30TH Celebration - Binder Collection",
-    "in_stock": true
+    "in_stock": false
   },
   "B0H7817G9M": {
     "name": "Pok\u00e9mon Tcg: 30TH Celebration Sylveon Ex Box",
@@ -1701,6 +1701,10 @@
   },
   "B0HDWX4J41": {
     "name": "Pok\u00e9mon TCG: Colecci\u00f3n Deck Crafter (2026)",
+    "in_stock": false
+  },
+  "B0HP1RX5TH": {
+    "name": "Pok\u00e9mon JCC Megaevoluci\u00f3n Dominio Delta Bl\u00edster de 3 Sobres de Refuerzo + Mega Evolution Delta Reign Elite Trainer Box",
     "in_stock": false
   }
 }
