@@ -93,7 +93,7 @@
   },
   "B0FN9KNQMM": {
     "name": "Pok\u00e9mon TCG: Team Rocket\u2019s Mewtwo ex League Battle Deck",
-    "in_stock": true
+    "in_stock": false
   },
   "B0DC2BK8QG": {
     "name": "Pok\u00e9mon TCG: Trainer\u2019s Toolkit",
@@ -129,7 +129,7 @@
   },
   "B0GR6Q72ND": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Chaos Rising Booster Bundle",
-    "in_stock": true
+    "in_stock": false
   },
   "B0F6PQLR16": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014White Flare Binder Collection",
@@ -161,7 +161,7 @@
   },
   "B0GYV6R6ZB": {
     "name": "Pok\u00e9mon Tcg: Mega Evolution\u2014pitch Black Build & Battle Box",
-    "in_stock": true
+    "in_stock": false
   },
   "B0GPFD48HG": {
     "name": "Pok\u00e9mon TCG Juego de cartas coleccionables: Mega Evolution: H\u00e9roes Ascendidos Minilata individual - 2 paquetes (Riolu y Darumaka)",
@@ -1044,7 +1044,7 @@
     "in_stock": false
   },
   "B0H9D7RQTC": {
-    "name": "Pokemon TCG: Mega Evolution Pitch Black Pokemon Center Elite Trainer Box | PB PKC ETB | Exclusivo Zarude Promo | 11 paquetes de refuerzo",
+    "name": "Pok\u00e9mon TCG: Mega Evolution Pitch Black Pok\u00e9mon Center Elite Trainer Box | PB PKC ETB | Promoci\u00f3n exclusiva de Zarude | 11 paquetes de refuerzo",
     "in_stock": true
   },
   "B0F6PVXFM1": {
@@ -1101,7 +1101,7 @@
   },
   "B0DST3RMRD": {
     "name": "Pokemon TCG: Hop's Zacian ex Box - 4 Paquetes",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GSC9654K": {
     "name": "Pok\u00e9mon TCG: Mega Evolution: H\u00e9roes Ascendidos: Blister de 2 paquetes (2 paquetes de refuerzo, tarjeta promocional y moneda) (Tangela de Erika)",
@@ -1713,6 +1713,10 @@
   },
   "B0HGNCYZSC": {
     "name": "Pok\u00e9mon TCG: colecci\u00f3n de adhesivos tecnol\u00f3gicos de la 30\u00b0 celebraci\u00f3n - Lucario",
+    "in_stock": false
+  },
+  "B0DK7ZL58G": {
+    "name": "Ultra Pro ULP16414 - Juego de cartas con tapa de Pokemon Elite Series Lucario",
     "in_stock": false
   }
 }
