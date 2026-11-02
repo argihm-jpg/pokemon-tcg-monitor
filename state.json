@@ -573,7 +573,7 @@
   },
   "B0HG3MQDWP": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Elite Trainer Box",
-    "in_stock": false
+    "in_stock": true
   },
   "B0F2BCG1Y5": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet - Destined Rivals - Booster Bundle",
@@ -673,7 +673,7 @@
   },
   "B0H2JVZYZZ": {
     "name": "Pok\u00e9mon TCG: First Partner Illustration Collection\u2014Series 3",
-    "in_stock": false
+    "in_stock": true
   },
   "B0G882HQVC": {
     "name": "Pokemon TCG Unova Heavy Hitters Colecci\u00f3n Premium",
@@ -1401,7 +1401,7 @@
   },
   "B0H7818RCM": {
     "name": "Pok\u00e9mon TCG: 30TH Celebration (Sylveon EX O Greninja EX SE ENV\u00cdA Aleatorio)",
-    "in_stock": false
+    "in_stock": true
   },
   "B000B5OCG2": {
     "name": "Pok\u00e9mon TCG Poke Ball Tin - Se enviar\u00e1 Aleatorio",
@@ -1701,7 +1701,7 @@
   },
   "B0HDWX4J41": {
     "name": "Pok\u00e9mon TCG: Colecci\u00f3n Deck Crafter (2026)",
-    "in_stock": false
+    "in_stock": true
   },
   "B0HP1RX5TH": {
     "name": "Pok\u00e9mon JCC Megaevoluci\u00f3n Dominio Delta Bl\u00edster de 3 Sobres de Refuerzo + Mega Evolution Delta Reign Elite Trainer Box",
@@ -1734,5 +1734,9 @@
   "B0H8Y5HL6Q": {
     "name": "20 Paquetes de Protector para Pok\u00e9mon TCG Elite Trainer Box,Antihuellas ETB Display Case,Resistente a Rayaduras y no Amarillea F\u00e1cilmente,Fundas Protectoras para Coleccionistas",
     "in_stock": false
+  },
+  "B0H7FR54KK": {
+    "name": "Pok\u00e9mon TCG: 30th Celebration Battle Deck (SE ENVIAR\u00c1 Aleatorio)",
+    "in_stock": true
   }
 }
