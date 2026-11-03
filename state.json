@@ -224,7 +224,7 @@
     "in_stock": true
   },
   "B0GYTWKXTR": {
-    "name": "Pok?mon Tcg: Mega Evolution?pitch Black Three-booster Blister",
+    "name": "Pok\u00e9mon TCG: Mega Evoluci\u00f3n Pitch Black, Bl\u00edster con 3 sobres",
     "in_stock": false
   },
   "B0G3CY83L5": {
@@ -573,7 +573,7 @@
   },
   "B0HG3MQDWP": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Elite Trainer Box",
-    "in_stock": true
+    "in_stock": false
   },
   "B0F2BCG1Y5": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet - Destined Rivals - Booster Bundle",
@@ -673,7 +673,7 @@
   },
   "B0H2JVZYZZ": {
     "name": "Pok\u00e9mon TCG: First Partner Illustration Collection\u2014Series 3",
-    "in_stock": true
+    "in_stock": false
   },
   "B0G882HQVC": {
     "name": "Pokemon TCG Unova Heavy Hitters Colecci\u00f3n Premium",
@@ -1738,5 +1738,13 @@
   "B0H7FR54KK": {
     "name": "Pok\u00e9mon TCG: 30th Celebration Battle Deck (SE ENVIAR\u00c1 Aleatorio)",
     "in_stock": true
+  },
+  "B0FDKVFFS7": {
+    "name": "Caja Almacenamiento MTG, Para 3000 Cartas, Tarjetas TCG, PTCG, Deportivas",
+    "in_stock": false
+  },
+  "B0G8HHHV54": {
+    "name": "Pok\u00e9mon TCG: Cofre para Coleccionistas 2025 (Collector Chest 2025) Espa\u00f1ol Latino JCC Ralts, Kirlia y Riolu",
+    "in_stock": false
   }
 }
