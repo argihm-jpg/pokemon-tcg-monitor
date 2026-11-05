@@ -385,7 +385,7 @@
   },
   "B0GYTRYV7P": {
     "name": "Pok?mon Tcg: Mega Evolution?pitch Black Booster Bundle",
-    "in_stock": true
+    "in_stock": false
   },
   "B0GZ9S9KDR": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Pitch Black Booster Display",
@@ -633,7 +633,7 @@
   },
   "B0FPM3LQJ4": {
     "name": "Pok\u00e9mon TCG Mega Evolutions 2 Phantasmal Flames Elite Trainer Box",
-    "in_stock": false
+    "in_stock": true
   },
   "B0B9M6N4F1": {
     "name": "Pok\u00e9mon TCG: Sword & Shield Colecci\u00f3n Ultra-Premium, Charizard",
@@ -881,7 +881,7 @@
   },
   "B0FPLLR939": {
     "name": "Pok\u00e9mon TCG Mega Evolutions 2 Phantasmal Flames Booster Bundle",
-    "in_stock": true
+    "in_stock": false
   },
   "B0H8XZWF3C": {
     "name": "20 Paquetes de Protector para Pok\u00e9mon TCG Booster Bundle,Antihuellas ETB Display Case,Resistente a Rayaduras y no Amarillea F\u00e1cilmente,Fundas Protectoras para Coleccionistas",
@@ -1477,7 +1477,7 @@
   },
   "B0GXCRBL5J": {
     "name": "Juego de Cartas Pokemon Mega Paquete de expansi\u00f3n 30\u00aa Caja de celebraci\u00f3n",
-    "in_stock": true
+    "in_stock": false
   },
   "B0C8XNMGWK": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet \u2014 151 Ultra-Premium Collection",
@@ -1745,6 +1745,10 @@
   },
   "B0G8HHHV54": {
     "name": "Pok\u00e9mon TCG: Cofre para Coleccionistas 2025 (Collector Chest 2025) Espa\u00f1ol Latino JCC Ralts, Kirlia y Riolu",
+    "in_stock": false
+  },
+  "B0HBHZD2NB": {
+    "name": "Fundas Protectoras para Cartas Coleccionables, 100 Piezas, Protectores Transparentes para Tarjetas, Micas para Cartas de Colecci\u00f3n y Juegos de Cartas TCG",
     "in_stock": false
   }
 }
