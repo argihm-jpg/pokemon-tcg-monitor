@@ -1696,7 +1696,7 @@
     "in_stock": true
   },
   "B0HLQSCTTP": {
-    "name": "Pokemon TCG: 30th Celebration Pokemon Center Elite Trainer Box",
+    "name": "Pok\u00e9mon TCG: caja de entrenador Elite de celebraci\u00f3n del 30 aniversario de Pokemon Center",
     "in_stock": false
   },
   "B0HDWX4J41": {
@@ -1749,6 +1749,18 @@
   },
   "B0HBHZD2NB": {
     "name": "Fundas Protectoras para Cartas Coleccionables, 100 Piezas, Protectores Transparentes para Tarjetas, Micas para Cartas de Colecci\u00f3n y Juegos de Cartas TCG",
+    "in_stock": false
+  },
+  "B0HGG3XXSX": {
+    "name": "Pok\u00e9mon : Caja de entrenador de \u00e9lite Mega-Evoluci\u00f3n \u2013 Reina Delta (1 tarjeta promocional ilustrada, 9 paquetes de refuerzo y accesorios de juego premium)",
+    "in_stock": false
+  },
+  "B0HLNBZ1T9": {
+    "name": "Pok\u00e9mon Megaevoluci\u00f3n Equilibrio Perfecto Booster Box 36 Sobres espa\u00f1ol latinoamerica",
+    "in_stock": false
+  },
+  "B0G72SPRP6": {
+    "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Ascended Heroes Mega Meganium Ex Box (1 Foil Promo Card, 1 Oversize Lenticular Card & 4 Booster Packs)",
     "in_stock": false
   }
 }
