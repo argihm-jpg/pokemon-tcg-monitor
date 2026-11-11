@@ -161,7 +161,7 @@
   },
   "B0GYV6R6ZB": {
     "name": "Pok\u00e9mon Tcg: Mega Evolution\u2014pitch Black Build & Battle Box",
-    "in_stock": true
+    "in_stock": false
   },
   "B0GPFD48HG": {
     "name": "Pok\u00e9mon TCG Juego de cartas coleccionables: Mega Evolution: H\u00e9roes Ascendidos Minilata individual - 2 paquetes (Riolu y Darumaka)",
@@ -621,7 +621,7 @@
   },
   "B0F2BDXW4J": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box",
-    "in_stock": true
+    "in_stock": false
   },
   "B0FPDLTVVV": {
     "name": "Pok\u00e9mon TCG: Mega Charizard X ex Ultra-Premium Collection",
@@ -673,7 +673,7 @@
   },
   "B0H2JVZYZZ": {
     "name": "Pok\u00e9mon TCG: First Partner Illustration Collection\u2014Series 3",
-    "in_stock": true
+    "in_stock": false
   },
   "B0G882HQVC": {
     "name": "Pokemon TCG Unova Heavy Hitters Colecci\u00f3n Premium",
@@ -1780,7 +1780,7 @@
     "in_stock": false
   },
   "B0HR2SBVTD": {
-    "name": "Ultra Premium Collection 30th aniverarsario UPC POKEMON",
+    "name": "Ultra Premium Collection 30th aniverarsario UPC POKEMON verion dia",
     "in_stock": false
   }
 }
