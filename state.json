@@ -385,7 +385,7 @@
   },
   "B0GYTRYV7P": {
     "name": "Pok\u00e9mon TCG: Mega Evolution-Pitch Black Paquete de Sobres",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GZ9S9KDR": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Pitch Black Booster Display",
@@ -1477,7 +1477,7 @@
   },
   "B0GXCRBL5J": {
     "name": "Juego de Cartas Pokemon Mega Paquete de expansi\u00f3n 30\u00aa Caja de celebraci\u00f3n",
-    "in_stock": false
+    "in_stock": true
   },
   "B0C8XNMGWK": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet \u2014 151 Ultra-Premium Collection",
@@ -1782,5 +1782,17 @@
   "B0HR2SBVTD": {
     "name": "Ultra Premium Collection 30th aniverarsario UPC POKEMON verion dia",
     "in_stock": false
+  },
+  "B0H78BCWYG": {
+    "name": "Pok\u00e9mon TCG: 30TH Celebration Battle Deck\u2014Espeon EX",
+    "in_stock": true
+  },
+  "B0H8QVDZR3": {
+    "name": "Pok\u00e9mon Tcg Poke Ball Mega Evolucion - Se Enviar\u00e1 Aleatorio",
+    "in_stock": false
+  },
+  "B0HGNHZFH7": {
+    "name": "Pok\u00e9mon TCG Mega Greninja ex Premium Collection + 30th Celebration Figure Collection Mew",
+    "in_stock": true
   }
 }
