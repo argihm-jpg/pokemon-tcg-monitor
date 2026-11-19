@@ -189,7 +189,7 @@
   },
   "B0G1CJ273K": {
     "name": "Pokemon TCG Juego de cartas coleccionables Triple Whammy Lata con 3 paquetes de refuerzo y 3 tarjetas promocionales (Slaking)",
-    "in_stock": false
+    "in_stock": true
   },
   "B0DN4LQL4Y": {
     "name": "Pokemon TCG Scarlet & Violet 8.5 Prismatic Evolutions - Juego de Cartas coleccionables con contenedor Miniatura de hojalata, Surtido",
@@ -237,7 +237,7 @@
   },
   "B0BCN6HZR3": {
     "name": "Pok\u00e9mon TCG: Sword & Shield Silver Tempest Elite Trainer Box",
-    "in_stock": false
+    "in_stock": true
   },
   "B0H2N248WM": {
     "name": "Pokemon TCG: Mega Evolution Chaos Rising Pokemon Center Elite Trainer Box | CR PKC ETB | Promoci\u00f3n exclusiva de Fennekin | 11 sobres de refuerzo",
@@ -301,7 +301,7 @@
   },
   "B0GWKBRM8D": {
     "name": "Pok\u00e9mon TCG: Lumiose City Mini Tin Emboar/Inkay",
-    "in_stock": false
+    "in_stock": true
   },
   "B0DSLXPCJW": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014Journey Together Booster Bundle",
@@ -1053,7 +1053,7 @@
   },
   "B0DSQ9W4J4": {
     "name": "Pok\u00e9mon- Estuche de Entrenamiento de \u00e9lite, evoluciones prism\u00e1ticas, Multicolour",
-    "in_stock": false
+    "in_stock": true
   },
   "B0D6D6BJJ1": {
     "name": "Pok\u00e9mon TCG: Paradox Fury Premium Collection",
@@ -1249,7 +1249,7 @@
   },
   "B0H77XCW4M": {
     "name": "Pok\u00e9mon TCG: 30TH Celebration Figure Collection\u2014Mew",
-    "in_stock": true
+    "in_stock": false
   },
   "B08DN23BSM": {
     "name": "Pokemon TCG: Champion's Path Elite - Caja de Entrenador, Multicolor",
@@ -1588,7 +1588,7 @@
     "in_stock": false
   },
   "B0F9KJGGZ5": {
-    "name": "Juego de cartas Pokemon MEGA Paquete de expansi\u00f3n Inferno X Box",
+    "name": "Pok\u00e9mon Juego de Cartas Inferno X M2",
     "in_stock": false
   },
   "B0H78184DH": {
@@ -1737,7 +1737,7 @@
   },
   "B0H7FR54KK": {
     "name": "Pok\u00e9mon TCG: 30th Celebration Battle Deck (SE ENVIAR\u00c1 Aleatorio)",
-    "in_stock": false
+    "in_stock": true
   },
   "B0FDKVFFS7": {
     "name": "Caja Almacenamiento MTG, Para 3000 Cartas, Tarjetas TCG, PTCG, Deportivas",
@@ -1806,5 +1806,13 @@
   "B0DLHGL62N": {
     "name": "Ravensburger Disney Lorcana TCG Azurite Sea | Display de 24 Sobres de Refuerzo | Juego de Cartas Coleccionables Disney | Cartas para Construir y Mejorar Mazos | Producto Oficial",
     "in_stock": false
+  },
+  "B0HS2Z59GX": {
+    "name": "POKEMON TCG Mega Evolution Ascended Heroes Booster Bundle EN",
+    "in_stock": false
+  },
+  "B0HBWQGBJ4": {
+    "name": "Pok\u00e9mon TCG: Paquete de 2 ampollas (2 tarjetas promocionales de refuerzo y aluminio)",
+    "in_stock": true
   }
 }
