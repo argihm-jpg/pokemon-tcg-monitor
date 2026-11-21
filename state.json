@@ -41,7 +41,7 @@
   },
   "B0GWKCTH58": {
     "name": "Pok\u00e9mon Paquete de Sobres de Refuerzo de Megaevoluci\u00f3n-Caos Creciente de JCC Producto en Espa\u00f1ol Latinoamericano",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GWK55V53": {
     "name": "Pok\u00e9mon TCG: Lumiose City Mini Tin Meganium/Meowstic",
@@ -85,7 +85,7 @@
   },
   "B0GRCDKMSW": {
     "name": "Pok\u00e9mon TCG: Mega Lucario Ex League Battle Deck",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GNCGT9KK": {
     "name": "Pok\u00e9mon TCG: Mega Zygarde ex Premium Collection",
@@ -293,7 +293,7 @@
   },
   "B0GXJ8CSTY": {
     "name": "Pok\u00e9mon Mega Greninja ex Premium Collection",
-    "in_stock": true
+    "in_stock": false
   },
   "B0F1DGS4J7": {
     "name": "Lot de 1 soporte de acr\u00edlico para Pok\u00e9mon TCG Ultra Premium Collection Dracaufeu",
@@ -533,7 +533,7 @@
   },
   "B089NFGBLN": {
     "name": "Pok\u00e9mon TCG: Sword & Shield Darkness Ablaze Elite - Caja de Entrenador, Multicolor",
-    "in_stock": false
+    "in_stock": true
   },
   "B0CXY99B6D": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet - Twilight Masquerade Elite Trainer Box",
@@ -1317,7 +1317,7 @@
   },
   "B08GZ7XP18": {
     "name": "Pok\u00e9mon: Vivid Voltage- Elite Trainer Box",
-    "in_stock": false
+    "in_stock": true
   },
   "B0DNQ2Y9VT": {
     "name": "Pokemon - Lapras ex SVP 164 - Gold Full Art - Tarjeta promocional Terapagos Ultra Premium Collection - Exclusiva",
@@ -1397,7 +1397,7 @@
   },
   "B0H786SFFS": {
     "name": "Pok\u00e9mon TCG: 30TH Celebration Figure Collection\u2014Mewtwo",
-    "in_stock": false
+    "in_stock": true
   },
   "B0H7818RCM": {
     "name": "Pok\u00e9mon TCG: 30TH Celebration (Sylveon EX O Greninja EX SE ENV\u00cdA Aleatorio)",
@@ -1817,6 +1817,10 @@
   },
   "B0HGTBCCXX": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Booster Caja de exhibici\u00f3n",
-    "in_stock": true
+    "in_stock": false
+  },
+  "B0HRNV89Z3": {
+    "name": "Pok\u00e9mon TCG Sword & Shield Chilling Reign Elite Trainer Box",
+    "in_stock": false
   }
 }
