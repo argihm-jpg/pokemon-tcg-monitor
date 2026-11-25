@@ -77,7 +77,7 @@
   },
   "B0GGCDPJG9": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order Build & Battle Box",
-    "in_stock": true
+    "in_stock": false
   },
   "B0GFZV1ZVV": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order Elite - Caja de Entrenamiento",
@@ -273,7 +273,7 @@
   },
   "B0GV1XKBM8": {
     "name": "Pok\u00e9mon Paquete de Sobres de Refuerzo de Megaevoluci\u00f3n-Llamaradas Fantasmales de JCC Producto en Espa\u00f1ol de Lationamerica",
-    "in_stock": true
+    "in_stock": false
   },
   "B0H77VYKSM": {
     "name": "Pok\u00e9mon TCG: 30TH Celebration Ultra-Premium Collection\u2014Day",
@@ -361,7 +361,7 @@
   },
   "B0FP3SBK1S": {
     "name": "Pok\u00e9mon TCG: Cofre coleccionista - oto\u00f1o 2025",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GVBCLLNR": {
     "name": "Pokemon TCG Juego de cartas coleccionables de pedido perfecto, paquete de refuerzo individual con tarjeta promocional Makuhita y moneda Snorlax",
@@ -385,7 +385,7 @@
   },
   "B0GYTRYV7P": {
     "name": "Pok\u00e9mon TCG: Mega Evolution-Pitch Black Paquete de Sobres",
-    "in_stock": true
+    "in_stock": false
   },
   "B0GZ9S9KDR": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Pitch Black Booster Display",
@@ -397,7 +397,7 @@
   },
   "B0GYVHLP4L": {
     "name": "Pok\u00e9mon TCG: Mega Evolution-Pitch Black Caja de Entrenador \u00c9lite",
-    "in_stock": false
+    "in_stock": true
   },
   "B0H7L8LDD3": {
     "name": "Pok\u00e9mon. Caja Entrenador \u00c9lite Megaevoluci\u00f3n-Tinieblas Umbr\u00edas JCC Espa\u00f1ol Latino + TCG Mega Evolution Pitch Black Elite Trainer Box",
@@ -1352,7 +1352,7 @@
     "in_stock": false
   },
   "B0H8SV3WJ8": {
-    "name": "Pok\u00e9mon Tcg: 30th Celebration Elite Trainer Box",
+    "name": "Pok\u00e9mon Tcg: 30TH Celebration Elite Trainer Box",
     "in_stock": false
   },
   "B0H7X1QBCY": {
@@ -1841,6 +1841,10 @@
   },
   "B0HLH35SN5": {
     "name": "Pok\u00e9mon TCG Mega Evolution Ascended Heroes 5 mini latas + 5 tarjetas",
+    "in_stock": false
+  },
+  "B0H78B8XQW": {
+    "name": "Pok\u00e9mon TCG: 30TH Celebration Tin - Sylveon EX",
     "in_stock": false
   }
 }
