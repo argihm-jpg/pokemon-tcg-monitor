@@ -29,7 +29,7 @@
   },
   "B0GGCLDXZL": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order Elite Trainer Box, 1 Pieza",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GG11K25W": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order Booster Bundle",
@@ -85,7 +85,7 @@
   },
   "B0GRCDKMSW": {
     "name": "Pok\u00e9mon TCG: Mega Lucario Ex League Battle Deck",
-    "in_stock": true
+    "in_stock": false
   },
   "B0GNCGT9KK": {
     "name": "Pok\u00e9mon TCG: Mega Zygarde ex Premium Collection",
@@ -205,7 +205,7 @@
   },
   "B0DYR8D7YC": {
     "name": "Pok\u00e9mon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection",
-    "in_stock": false
+    "in_stock": true
   },
   "B0GZ44CXS4": {
     "name": "Pokemon TCG Caja de Booster - CBB5C: Vol. 5 Paquete de Gemas (Chino)",
@@ -224,7 +224,7 @@
     "in_stock": true
   },
   "B0GYTWKXTR": {
-    "name": "Pok\u00e9mon TCG: Mega Evoluci\u00f3n Pitch Black, Bl\u00edster con 3 sobres",
+    "name": "Pok\u00e9mon TCG Mega Evolution Pitch Black Three-Booster Blister",
     "in_stock": false
   },
   "B0G3CY83L5": {
@@ -361,7 +361,7 @@
   },
   "B0FP3SBK1S": {
     "name": "Pok\u00e9mon TCG: Cofre coleccionista - oto\u00f1o 2025",
-    "in_stock": true
+    "in_stock": false
   },
   "B0GVBCLLNR": {
     "name": "Pokemon TCG Juego de cartas coleccionables de pedido perfecto, paquete de refuerzo individual con tarjeta promocional Makuhita y moneda Snorlax",
@@ -553,7 +553,7 @@
   },
   "B0HG3RVZLW": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Booster Bundle",
-    "in_stock": false
+    "in_stock": true
   },
   "B0HG3JBNBN": {
     "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Three-Booster Blister",
@@ -625,7 +625,7 @@
   },
   "B0FPDLTVVV": {
     "name": "Pok\u00e9mon TCG: Mega Charizard X ex Ultra-Premium Collection",
-    "in_stock": false
+    "in_stock": true
   },
   "B0FN8Z7HYH": {
     "name": "Pok\u00e9mon TCG: Team Rocket\u2019s Moltres ex Ultra-Premium Collection",
@@ -753,7 +753,7 @@
   },
   "B0HG3CDLW6": {
     "name": "Pok\u00e9mon Caja de Entrenador \u00c9lite de Megaevoluci\u00f3n-Dominio Delta de JCC",
-    "in_stock": false
+    "in_stock": true
   },
   "B0FNMXRX7Y": {
     "name": "TIME4BUY 35PT Tarjetero Magn\u00e9tico para Tarjetas Coleccionables, Card Sleeves Protecci\u00f3n UV, Fundas para Cartas, para Tarjetas de TCG, B\u00e9isbol, F\u00fatbol, Yugioh y MTG, Tarjetas de Juego (50PCS)",
@@ -1890,5 +1890,9 @@
   "B0H4Y35H1J": {
     "name": "Pok\u00e9mon TCG: Lata Mega Forces",
     "in_stock": true
+  },
+  "B0H9ZGWPKR": {
+    "name": "Pok\u00e9mon Coleccion Premium Mega-Greninja ex",
+    "in_stock": false
   }
 }
